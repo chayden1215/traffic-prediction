@@ -1,7 +1,5 @@
-<p><center> <img src="images/Picture101.png" width="1000"/> </p></center>
 
-# waze-romania
-## Using Waze data to better understand mobility issues in Romania.
+## Using Waze data to predict traffic across city segments.
 In this repository, we aggregate traffic data from Waze in Cluj from individual points to hexagons (from 36 km^2 to 0.015km^2 in size) for vizualization and analysis of traffic alerts in the city for the years 2019 until 2022. We then run various machine learning algorithms to predict daily traffic alerts in distinct regions of Cluj given spatial and temporal variables.
 
 ### Predictive Features
